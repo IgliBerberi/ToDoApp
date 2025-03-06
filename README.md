@@ -1,14 +1,14 @@
 # TodoApp - Android Task Management Application
 
-![image](https://github.com/user-attachments/assets/af45f54b-5a20-4762-83de-4a5c4468bfa0)
-
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Android-green.svg)
 ![Language](https://img.shields.io/badge/Language-Java-orange.svg)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-purple.svg)
 
 A modern, feature-rich task management application for Android built with Java and following MVVM architecture patterns.
 
-![TodoApp Screenshot](screenshots/app_preview.png)
+![image](https://github.com/user-attachments/assets/fe70e643-a0dd-4ebd-96c2-65866447e5ea)
+
 
 ## Features
 
