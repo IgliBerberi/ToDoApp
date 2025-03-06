@@ -12,6 +12,8 @@ A modern, feature-rich task management application for Android built with Java a
 ![image](https://github.com/user-attachments/assets/758d3372-b178-42b0-b3f3-47ead997f42a)
 ![image](https://github.com/user-attachments/assets/94d37889-86b5-43a7-a30f-fc446e31ceb3)
 ![image](https://github.com/user-attachments/assets/fe70e643-a0dd-4ebd-96c2-65866447e5ea)
+![image](https://github.com/user-attachments/assets/18eca8de-3de2-4516-9382-9d60d101c8d8)
+
 
 ## Features
 
@@ -20,6 +22,7 @@ A modern, feature-rich task management application for Android built with Java a
 - **Priority Levels**: Assign low, medium, or high priorities to tasks with visual indicators
 - **Task Sorting**: Sort tasks by priority or alphabetically
 - **Task Details**: View detailed information and add comments to tasks
+- **Profile Management**: Update personal information and change password
 - **Dark/Light Mode**: Modern UI with support for light mode
 
 ## Architecture & Technical Details
@@ -42,6 +45,7 @@ com.example.todoapp/
 ├── CommentDao.java              # Data Access Object for comments
 ├── LoginActivity.java           # Login screen
 ├── MainActivity.java            # Main app screen
+├── ProfileActivity.java         # User profile management screen
 ├── RegisterActivity.java        # Registration screen
 ├── SessionManager.java          # Session management utility
 ├── Task.java                    # Task entity
@@ -68,6 +72,7 @@ res/
 ├── layout/
 │   ├── activity_login.xml       # Login screen layout
 │   ├── activity_main.xml        # Main screen layout
+│   ├── activity_profile.xml     # Profile management layout
 │   ├── activity_register.xml    # Registration screen layout
 │   ├── activity_task_detail.xml # Task details screen layout
 │   ├── dialog_add_task.xml      # Add task dialog layout
