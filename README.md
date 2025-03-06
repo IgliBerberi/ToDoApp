@@ -7,7 +7,12 @@
 
 A modern, feature-rich task management application for Android built with Java and following MVVM architecture patterns.
 
+![image](https://github.com/user-attachments/assets/d15dcd05-7e91-450b-8446-5ca819d1ae0d)
+![image](https://github.com/user-attachments/assets/d4ff8cc2-2e2b-4b6e-ac55-8a4e2565b4f0)
+![image](https://github.com/user-attachments/assets/0f7cb314-3c8c-47bc-bdf0-42d281826818)
+![image](https://github.com/user-attachments/assets/94d37889-86b5-43a7-a30f-fc446e31ceb3)
 ![image](https://github.com/user-attachments/assets/fe70e643-a0dd-4ebd-96c2-65866447e5ea)
+![image](https://github.com/user-attachments/assets/758d3372-b178-42b0-b3f3-47ead997f42a)
 
 
 ## Features
