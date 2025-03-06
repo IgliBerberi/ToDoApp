@@ -48,4 +48,10 @@ public class SessionManager {
     public String getUserFullName() {
         return pref.getString(KEY_FULL_NAME, null);
     }
+
+    public void updateUserDetails(String email, String fullName) {
+        editor.putString(KEY_EMAIL, email);
+        editor.putString(KEY_FULL_NAME, fullName);
+        editor.apply();
+    }
 }

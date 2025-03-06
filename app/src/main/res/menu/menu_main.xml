@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-
     <item
         android:id="@+id/action_sort_priority"
+        android:orderInCategory="100"
         android:title="Sort by Priority"
         app:showAsAction="never" />
-
     <item
         android:id="@+id/action_sort_alphabetical"
+        android:orderInCategory="100"
         android:title="Sort Alphabetically"
         app:showAsAction="never" />
-
     <item
         android:id="@+id/action_clear_completed"
+        android:orderInCategory="100"
         android:title="Clear Completed Tasks"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_profile"
+        android:orderInCategory="100"
+        android:title="My Profile"
         app:showAsAction="never" />
 </menu>

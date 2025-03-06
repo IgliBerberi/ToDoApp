@@ -149,6 +149,9 @@ public class MainActivity extends AppCompatActivity implements TaskAdapter.OnTas
             // Now using database for deleting
             taskViewModel.deleteCompletedTasks();
             return true;
+        } else if (id == R.id.action_profile) {
+            startActivity(new Intent(this, ProfileActivity.class));
+            return true;
         } else if (id == 101) { // Logout
             sessionManager.logoutUser();
             startActivity(new Intent(this, LoginActivity.class));
