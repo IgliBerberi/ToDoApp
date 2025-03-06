@@ -12,7 +12,8 @@ A modern, feature-rich task management application for Android built with Java a
 ![image](https://github.com/user-attachments/assets/758d3372-b178-42b0-b3f3-47ead997f42a)
 ![image](https://github.com/user-attachments/assets/94d37889-86b5-43a7-a30f-fc446e31ceb3)
 ![image](https://github.com/user-attachments/assets/fe70e643-a0dd-4ebd-96c2-65866447e5ea)
-![image](https://github.com/user-attachments/assets/342664e2-6f53-4133-903c-27ba3f53a807)
+![image](https://github.com/user-attachments/assets/cae2887d-3dd8-4db1-a0b2-8204d474e736)
+
 
 
 
