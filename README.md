@@ -63,7 +63,7 @@ com.example.todoapp/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/TodoApp.git
+   git clone https://github.com/IgliBerberi/TodoApp.git
    ```
 
 2. Open the project in Android Studio
